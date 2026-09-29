@@ -21,9 +21,9 @@ To write a Java program that prints all elements in an array greater than a give
 
 ### Program to Implement Variables and Operators Using Java
 
-**Developed by:** PRAVEEN K
+**Developed by:** Sanjai R
 
-**Register Number:** 212223230153
+**Register Number:** 212223040180
 ### SOURCE CODE:
 ```java
 import java.util.Scanner;
