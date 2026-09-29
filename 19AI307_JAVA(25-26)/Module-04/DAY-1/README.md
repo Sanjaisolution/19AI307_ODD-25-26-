@@ -1,22 +1,6 @@
 # Ex.No:4(A) EXCEPTION HANDLING
 
 ## QUESTION:
-
-
-## AIM:
-
-
-## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
-# Ex.No:4(A) EXCEPTION HANDLING
-
-## QUESTION:
 You wrote a program that stores some input strings into a String array and prints each string in uppercase.
 However, you're getting a NullPointerException.
 What should you check in your array before calling .toUpperCase() on a element?
@@ -84,26 +68,3 @@ Therefore the program successfully demonstrates how a NullPointerException occur
 
 
 
-
-## PROGRAM:
- ```
-/*
-Program to implement a Exception Handling using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
