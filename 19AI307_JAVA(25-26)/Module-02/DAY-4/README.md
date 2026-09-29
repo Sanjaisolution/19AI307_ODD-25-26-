@@ -28,9 +28,9 @@ To write a Java program that demonstrates accessing a static variable using both
 ## PROGRAM:
  ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: PRAVEEN K
-RegisterNumber: 212223230153
+Program to implement a Class and Objects using Java
+Developed by: Sanjai R
+RegisterNumber:212223040180
 */
 ```
 
