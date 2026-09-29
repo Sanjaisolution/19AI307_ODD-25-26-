@@ -19,8 +19,8 @@ To write a Java program to create and display details of two courses using objec
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: PRAVEEN K
-RegisterNumber: 212223230153
+Developed by: Sanjai R
+RegisterNumber:212223040180
 */
 ```
 
