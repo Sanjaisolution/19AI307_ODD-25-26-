@@ -21,9 +21,9 @@ To write a Java program to find the cube of a number using methods.
 ## PROGRAM:
  ```
 /*
-Program to implement a Methods using Java
-Developed by: PRAVEEN K
-RegisterNumber: 212223230153
+Program to implement a Class and Objects using Java
+Developed by: Sanjai R
+RegisterNumber:212223040180
 */
 ```
 
